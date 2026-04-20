@@ -62,4 +62,17 @@ The dataset contains sales transaction details including:
 * Specific product categories perform better in revenue generation
 * Total sales value provides overall business performance overview
 
+## Dashboard Preview
+
+## Key Learnings
+
+- Data cleaning and preprocessing techniques
+- Pivot table analysis in Excel
+- Building interactive dashboards in Power BI
+- Data visualization best practices
+
+## Acknowledgement
+
+This project was created as a part of my learning journey in Data Analytics, focusing on practical hands-on experience with Excel and Power BI.
+
 
