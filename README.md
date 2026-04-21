@@ -64,6 +64,21 @@ The dataset contains sales transaction details including:
 
 ## Dashboard Preview
 
+### Power BI Dashboard
+![Power BI Dashboard](sales-powerbi-dashboard.png)
+
+### Excel Data Sheet
+![Excel Data](sales-excel-dataset.png)
+
+### Pivot Table 1
+![Pivot 1](pivot1.png)
+
+### Pivot Table 2
+![Pivot 2](pivot2.png)
+
+### Pivot Table 3
+![Pivot 3](pivot3.png)
+
 ## Key Learnings
 
 - Data cleaning and preprocessing techniques
