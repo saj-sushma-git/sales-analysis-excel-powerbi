@@ -80,6 +80,11 @@ The dataset contains sales transaction details including:
 ### Pivot Table 3
 ![Pivot 3](pivot3.png)
 
+## Project Files
+
+- Excel File: sales-analysis.xlsx
+- Power BI File: sales-dashboard.pbix
+
 ## Key Learnings
 
 - Data cleaning and preprocessing techniques
