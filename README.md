@@ -58,9 +58,10 @@ The dataset contains sales transaction details including:
 
 ## Key Insights
 
-* Certain cities contribute higher sales compared to others
-* Specific product categories perform better in revenue generation
-* Total sales value provides overall business performance overview
+- Vizag generated the highest sales
+- Electronics category contributed the majority of revenue
+- Total sales reached 541K, indicating overall performance
+- Accessories category had comparitively lower sales
 
 ## Dashboard Preview
 
